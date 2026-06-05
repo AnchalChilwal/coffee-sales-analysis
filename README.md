@@ -43,8 +43,7 @@ Pivot Tables enabled quick aggregation of large datasets and helped uncover mean
 ## Key Insights
 *	Revenue demonstrated strong growth throughout the first half of the year, increasing from $81.7K in January to $166.5K in June, with consistent month-over-month growth from March onward.
 *	Customer activity was relatively stable across the week, with Monday, Thursday, and Friday emerging as the busiest days, while Saturday recorded the lowest transaction volume.
-*	Morning hours accounted for the majority of sales (117.6K transactions), significantly outperforming afternoon, evening, and night periods, highlighting the business's dependence on breakfast and commuter traffic.
-*	The morning sales pattern was consistent across all store locations, with Lower Manhattan generating the highest morning demand, while Astoria showed comparatively stronger evening activity.
+*	Morning hours accounted for the majority of sales (117.6K transactions), significantly outperforming afternoon, evening, and night periods, highlighting the business's dependence on breakfast and commuter traffic,with Lower Manhattan leading among all other locations.
 *	Coffee (89,250 units) and Tea (69,737 units) were the top-selling product categories, confirming that  beverages are the primary drivers of customer purchases.
 *	Bakery items (23,214 units) were the strongest non-beverage category.
 *	Packaged Chocolate, Branded Merchandise, and Loose Tea were the least purchased products, indicating limited customer demand for retail and packaged goods.
